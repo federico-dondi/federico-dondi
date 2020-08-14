@@ -1,5 +1,11 @@
 # Hello, I'm Federico Dondi 👋
 
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
+![C#](https://img.shields.io/badge/CSharp-Intermediate-green)
+
 Computer Science student and full-stack web developer from Bologna, Italy. 🇮🇹
 
 - 🔭 I’m currently studying **Computer Science** at UniBO
