@@ -9,7 +9,7 @@
 Computer Science student and full-stack web developer from Bologna, Italy 🇮🇹
 
 - 🔭 I’m currently studying **Computer Science** at UniBO
-- 🌱 I’m currently learning **Python** and **Blockchain**
+- 🌱 I’m currently learning **Python** and **Godot Engine**
 - ⚙️ Mastering: `.js`,`.ts`,`.html`,`.css`,`.cs`
 - 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
 - 💬 I'm mostly active within the **Vue.JS**, **Node.JS** and **Unity 3D** communities
