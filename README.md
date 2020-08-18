@@ -8,7 +8,7 @@
 
 Computer Science student and full-stack web developer from [Bologna, Italy](https://g.page/Due-Torri-Bologna?share) 🇮🇹
 
-- 🔭 I’m currently studying **Computer Science** at UniBO
+- 🔭 I’m currently studying **Computer Science** at UniBo
 - 🌱 I’m currently learning **Python** and **Godot Engine**
 - ⚙️ Mastering: `.js`,`.ts`,`.html`,`.css`,`.cs`
 - 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
