@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
 ![C#](https://img.shields.io/badge/CSharp-Intermediate-green)
 
-Computer Science student and full-stack web developer from Bologna, Italy 🇮🇹
+Computer Science student and full-stack web developer from [Bologna, Italy](https://g.page/Due-Torri-Bologna?share) 🇮🇹
 
 - 🔭 I’m currently studying **Computer Science** at UniBO
 - 🌱 I’m currently learning **Python** and **Godot Engine**
