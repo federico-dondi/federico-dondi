@@ -20,7 +20,7 @@ Computer Science student and full-stack web developer from [Bologna, Italy](http
 - GitHub: [github.com/federico-dondi][2]
 - LinkedIn: coming soon
 - Site: [federico-dondi.github.io][3]
-- E-mail: federico.dondi@studio.unibo.it
+- E-mail: federico.dondi2@studio.unibo.it
 
 ![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=federico-dondi&show_icons=true&hide_border=true)
 
