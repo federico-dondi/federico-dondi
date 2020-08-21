@@ -9,7 +9,7 @@
 Computer Science student and full-stack web developer from [Bologna, Italy](https://g.page/Due-Torri-Bologna?share) 🇮🇹
 
 - 🔭 I’m currently studying **Computer Science** at UniBo
-- 🌱 I’m currently learning **Python** and **Godot Engine**
+- 🌱 I’m currently learning **Godot Engine** and **Test Driven Development**
 - ⚙️ Mastering: `.js`,`.ts`,`.html`,`.css`,`.cs`
 - 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
 - 💬 I'm mostly active within the **Vue.JS**, **Node.JS** and **Unity 3D** communities
@@ -18,7 +18,7 @@ Computer Science student and full-stack web developer from [Bologna, Italy](http
 
 - StackOverflow: [stackoverflow.com/federico-dondi][stackoverflow]
 - GitHub: [github.com/federico-dondi][github]
-- Itch: [itch.io/federico-dondi][itch]
+- Itch.io: [itch.io/federico-dondi][itch]
 - LinkedIn: coming soon
 - Site: [federico-dondi.github.io][site]
 - E-mail: federico.dondi2@studio.unibo.it
