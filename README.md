@@ -1,8 +1,8 @@
 # Hello, I'm Federico Dondi 👋
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
 ![C#](https://img.shields.io/badge/CSharp-Intermediate-green)
 
@@ -10,7 +10,7 @@ Computer Science student at [University of Bologna](https://www.unibo.it/en). Fu
 
 - 🔭 I’m currently studying **Computer Science** at UniBo
 - 🌱 I’m currently learning **Godot Engine** and **Test Driven Development**
-- ⚙️ Mastering: `.js`,`.ts`,`.html`,`.css`,`.cs`
+- ⚙️ Mastering: `.html`,`.css`,`.js`,`.ts`,`.cs`
 - 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
 - 💬 I'm mostly active within the **Vue.JS**, **Node.JS** and **Unity 3D** communities
 
