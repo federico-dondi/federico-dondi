@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
 ![C#](https://img.shields.io/badge/CSharp-Intermediate-green)
 
-Computer Science student at [University of Bologna](https://www.unibo.it/en). Full-stack & videogames developer with passion for solving real-world problems, mainly about e-learning and automotive. Proudly from [Bologna, Italy](https://g.page/Due-Torri-Bologna?share) 🇮🇹
+Computer Science student at [University of Bologna](https://www.unibo.it/en). Full-stack developer with passion for videogames, played or created alike. Proudly from [Bologna, Italy](https://g.page/Due-Torri-Bologna?share) 🇮🇹
 
 - 🔭 I’m currently studying **Computer Science** at UniBo
 - 🌱 I’m currently learning **Godot Engine** and **Test Driven Development**
