@@ -23,6 +23,8 @@ Computer Science student at [University of Bologna](https://www.unibo.it/en). Fu
 - Site: [federico-dondi.github.io][site]
 - E-mail: federico.dondi2@studio.unibo.it
 
+### 📚 Looking for my Resume? E-Mail me!
+
 ![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=federico-dondi&show_icons=true&hide_border=true)
 
 [stackoverflow]: https://stackoverflow.com/users/13278024/federico-dondi
