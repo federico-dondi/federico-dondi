@@ -9,7 +9,7 @@
 Computer Science student at [University of Bologna](https://www.unibo.it/en). Full-stack developer with passion for videogames, played or created alike. Proudly from [Bologna, Italy](https://g.page/Due-Torri-Bologna?share) 🇮🇹
 
 - 🔭 I’m currently studying **Computer Science** at UniBo
-- 🌱 I’m currently learning **Godot Engine** and **Test Driven Development**
+- 🌱 I’m currently learning **Scrum** and **Test Driven Development**
 - ⚙️ Mastering: `.html`,`.css`,`.js`,`.ts`,`.cs`
 - 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
 - 💬 I'm mostly active within the **Vue.JS**, **Node.JS** and **Unity 3D** communities
