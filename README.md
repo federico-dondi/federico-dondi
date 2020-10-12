@@ -17,7 +17,6 @@ Computer Science student at [University of Bologna](https://www.unibo.it/en). Fu
 
 - StackOverflow: [stackoverflow.com/federico-dondi][stackoverflow]
 - GitHub: [github.com/federico-dondi][github]
-- Itch.io: [itch.io/federico-dondi][itch]
 - LinkedIn: coming soon
 - Site: [federico-dondi.github.io][site]
 - E-mail: federico.dondi2@studio.unibo.it
@@ -28,5 +27,4 @@ Computer Science student at [University of Bologna](https://www.unibo.it/en). Fu
 
 [stackoverflow]: https://stackoverflow.com/users/13278024/federico-dondi
 [github]: https://github.com/federico-dondi
-[itch]: https://federico-dondi.itch.io
 [site]: https://federico-dondi.github.io
