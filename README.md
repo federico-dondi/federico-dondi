@@ -15,7 +15,6 @@ Computer Science student at [University of Bologna](https://www.unibo.it/en). Fu
 
 ### 📬 Get in Touch
 
-- Kaggle: [kaggle.com/federico-dondi][kaggle]
 - StackOverflow: [stackoverflow.com/federico-dondi][stackoverflow]
 - GitHub: [github.com/federico-dondi][github]
 - LinkedIn: coming soon
@@ -28,5 +27,4 @@ Computer Science student at [University of Bologna](https://www.unibo.it/en). Fu
 
 [stackoverflow]: https://stackoverflow.com/users/13278024/federico-dondi
 [github]: https://github.com/federico-dondi
-[kaggle]: https://kaggle.com/federicodondi
 [site]: https://federico-dondi.github.io
