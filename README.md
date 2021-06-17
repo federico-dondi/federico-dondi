@@ -1,6 +1,7 @@
 # Hello, I'm Federico Dondi 👋
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
+![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
